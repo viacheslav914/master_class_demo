@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b73b3b1b921b20b5",
+        "id": "f2878ad02ebab119",
         "type": "tabs",
         "children": [
           {
-            "id": "dc666cfe9abddfdc",
+            "id": "4aecc9f5876c3489",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "АКБФ/I - 5 марта/Техзадание.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "АКБФ/I - 5 марта/Техзадание.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "АКБФ/I - 5 марта/Техзадание.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "АКБФ/I - 5 марта/Техзадание.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,10 +140,10 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "dc666cfe9abddfdc",
+  "active": "4aecc9f5876c3489",
   "lastOpenFiles": [
-    "Test.md",
     "АКБФ/I - 5 марта/Техзадание.md",
+    "Test.md",
     "АКБФ/I - 5 марта",
     "АКБФ",
     "Без названия.canvas",
