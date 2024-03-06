@@ -1,1 +1,0 @@
-https://akbf.ru/education-block/faq/general-issues
