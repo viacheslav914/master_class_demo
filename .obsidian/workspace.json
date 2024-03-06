@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6b8a09af69b98606",
+        "id": "05fd1f77279ced3c",
         "type": "tabs",
         "children": [
           {
-            "id": "5d6732d9f703afcd",
+            "id": "12b62d50dc7e7b17",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Test.md"
+              }
             }
           }
         ]
@@ -142,8 +146,8 @@
   },
   "active": "50c26074a1e3d209",
   "lastOpenFiles": [
+    "Test.md",
     "Без названия.canvas",
-    "Без названия.md",
     "2024-03-06.md"
   ]
 }
