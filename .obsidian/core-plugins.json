@@ -20,5 +20,7 @@
   "word-count",
   "slides",
   "audio-recorder",
-  "file-recovery"
+  "workspaces",
+  "file-recovery",
+  "publish"
 ]
