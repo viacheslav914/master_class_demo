@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "АКБФ/I - 5 марта/Задание на неделю.md",
+                "file": "АКБФ/Форма отчета за неделю.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "АКБФ/I - 5 марта/Задание на неделю.md",
+                "file": "АКБФ/Форма отчета за неделю.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "АКБФ/I - 5 марта/Задание на неделю.md",
+                "file": "АКБФ/Форма отчета за неделю.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "АКБФ/I - 5 марта/Задание на неделю.md"
+                "file": "АКБФ/Форма отчета за неделю.md"
               }
             }
           }
@@ -150,8 +150,9 @@
   },
   "active": "4aecc9f5876c3489",
   "lastOpenFiles": [
-    "АКБФ/I - 5 марта/Техзадание.md",
     "АКБФ/I - 5 марта/Задание на неделю.md",
+    "АКБФ/Форма отчета за неделю.md",
+    "АКБФ/I - 5 марта/Техзадание.md",
     "Test.md",
     "АКБФ/I - 5 марта",
     "АКБФ",
