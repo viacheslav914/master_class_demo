@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "АКБФ/ЭТАПЫ процесса/Work/Ноутбуки.md",
+                "file": "GPT/ХАКИ/Custom Instructions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "АКБФ/ЭТАПЫ процесса/Work/Ноутбуки.md",
+                "file": "GPT/ХАКИ/Custom Instructions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "АКБФ/ЭТАПЫ процесса/Work/Ноутбуки.md",
+                "file": "GPT/ХАКИ/Custom Instructions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "АКБФ/ЭТАПЫ процесса/Work/Ноутбуки.md"
+                "file": "GPT/ХАКИ/Custom Instructions.md"
               }
             }
           },
@@ -166,7 +166,9 @@
   "active": "fcb35852bfeb7571",
   "lastOpenFiles": [
     "АКБФ/ЭТАПЫ процесса/Work/Ноутбуки.md",
-    "АКБФ/ЭТАПЫ процесса/Work/Ноутбуки.md",
+    "GPT/ХАКИ/Custom Instructions.md",
+    "GPT/ХАКИ",
+    "GPT",
     "АКБФ/ЭТАПЫ процесса/Work",
     "АКБФ/ТЕХЗАДАНИЕ.md",
     "АКБФ/ЭТАПЫ процесса/I - 5 марта/Запись 1 встречи от 05.03.2024 г..md",
